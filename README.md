@@ -14,7 +14,7 @@
         //pic_summary vm
 ## 3) Create container template
  * summary and console screen
-    ![Image](https://github.com/keta410/SPCN-011/issues/1#issue-1476901765)
+    ![image](https://user-images.githubusercontent.com/104758471/205685707-f4abf247-aca5-4d64-a955-552270bb5710.png)
     * ct summary screen
-    ![Image](https://github.com/keta410/SPCN-011/issues/2#issue-1476903310)
+    ![ct_console-ep1](https://user-images.githubusercontent.com/104758471/205689184-0b5bc6d6-7793-4d41-bd1d-92ffbe941108.png)
     * ct console screen
